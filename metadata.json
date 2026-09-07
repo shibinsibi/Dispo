@@ -1,0 +1,6 @@
+{
+  "name": "Dispo World - Modern Disposable & Packaging Solutions",
+  "description": "Leading manufacturer and online packaging store for eco-friendly disposable packaging, food containers, and tableware with real-time 360° photo inspection and 3D models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
